@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Kill List
 =========
 * Unused code
@@ -7,8 +6,3 @@ Kill List
 * Repeated code blocks
 * Bad variable names
 * Inexperience
-=======
-* poor syntax
-* ignorance of git
-* not enough hustle
->>>>>>> kill_list
